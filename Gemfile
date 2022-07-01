@@ -52,3 +52,5 @@ gem "jwt", "~> 2.4"
 gem "active_model_serializers", "~> 0.10.13"
 
 gem "devise", "~> 4.8"
+
+gem "byebug", "~> 11.1"
